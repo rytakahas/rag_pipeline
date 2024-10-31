@@ -1,0 +1,6 @@
+transformers==4.44.2
+datasets==3.0.2
+faiss-cpu==1.9.0
+langchain==0.3.6
+langchain-community==0.3.4
+langchain-core==0.3.14
